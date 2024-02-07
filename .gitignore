@@ -2,3 +2,16 @@
 node_modules
 .tmp
 npm-debug.log
+.
+.ipynb_checkpoints
+CONTRIBUTING.md
+LICENSE
+Data input and validation.ipynb
+NOTICE
+olympics.csv
+README.md
+Series.ipynb
+Summer Olympic medallists 1896 to 2008 - IOC COUNTRY CODES.csv
+gitignore
+.gitignore
+.gitignore
